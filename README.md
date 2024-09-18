@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 💬 Ask me about **cloud frameworks, linux, Java development**
+- 💬 Ask me about **Cloud frameworks, Linux, Java development**
 
-- 📫 How to reach me **aakarshvyas11@outlook.com**
+- 📫 Reach me on **aakarshvyas11@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
